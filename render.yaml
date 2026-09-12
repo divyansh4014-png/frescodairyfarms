@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: fresco-dairy-farms
+    env: static
+    buildCommand: ""
+    staticPublishPath: ./

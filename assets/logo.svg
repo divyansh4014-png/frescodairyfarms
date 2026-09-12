@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="Fresco Dairy Farms emblem">
+  <circle cx="60" cy="60" r="58" fill="#FBF3E7" stroke="#4A6741" stroke-width="3"/>
+  <circle cx="60" cy="60" r="50" fill="none" stroke="#C97C3D" stroke-width="1.5" stroke-dasharray="2 4"/>
+
+  <!-- ears -->
+  <ellipse cx="34" cy="52" rx="10" ry="14" transform="rotate(-25 34 52)" fill="#6B4226"/>
+  <ellipse cx="86" cy="52" rx="10" ry="14" transform="rotate(25 86 52)" fill="#6B4226"/>
+
+  <!-- horns -->
+  <path d="M42 38 Q38 26 46 24" fill="none" stroke="#4A2E1F" stroke-width="4" stroke-linecap="round"/>
+  <path d="M78 38 Q82 26 74 24" fill="none" stroke="#4A2E1F" stroke-width="4" stroke-linecap="round"/>
+
+  <!-- head -->
+  <ellipse cx="60" cy="66" rx="28" ry="24" fill="#FFF8EE" stroke="#4A2E1F" stroke-width="2.5"/>
+
+  <!-- patches -->
+  <path d="M40 52 Q34 60 42 68 Q48 66 46 56 Q44 50 40 52Z" fill="#4A2E1F"/>
+  <path d="M78 70 Q86 72 84 82 Q76 84 72 76 Q73 70 78 70Z" fill="#4A2E1F"/>
+
+  <!-- eyes -->
+  <circle cx="49" cy="62" r="3.2" fill="#3B2A1E"/>
+  <circle cx="71" cy="62" r="3.2" fill="#3B2A1E"/>
+
+  <!-- muzzle -->
+  <ellipse cx="60" cy="80" rx="15" ry="10" fill="#F2C6B4" stroke="#4A2E1F" stroke-width="2"/>
+  <circle cx="55" cy="80" r="1.8" fill="#4A2E1F"/>
+  <circle cx="65" cy="80" r="1.8" fill="#4A2E1F"/>
+</svg>
