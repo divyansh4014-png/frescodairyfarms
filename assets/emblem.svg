@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="Fresco Dairy Farms emblem">
+  <circle cx="100" cy="100" r="92" fill="#fbf3e7" stroke="#33492e" stroke-width="3"/>
+  <circle cx="100" cy="100" r="84" fill="none" stroke="#33492e" stroke-width="1"/>
+
+  <!-- mountains -->
+  <path d="M38,112 L64,68 L82,112 L100,55 L118,112 L136,72 L162,112 Z" fill="#33492e"/>
+
+  <!-- pine trees -->
+  <g fill="#33492e">
+    <path d="M42,112 L50,95 L58,112 Z"/>
+    <path d="M45,101 L50,90 L55,101 Z"/>
+    <path d="M142,112 L150,95 L158,112 Z"/>
+    <path d="M145,101 L150,90 L155,101 Z"/>
+  </g>
+
+  <!-- cow -->
+  <g>
+    <path d="M75,120 Q67,130 72,138" fill="none" stroke="#4a2e1f" stroke-width="3.5" stroke-linecap="round"/>
+    <circle cx="72" cy="140" r="3.5" fill="#4a2e1f"/>
+    <rect x="80" y="134" width="5" height="15" rx="2.5" fill="#4a2e1f"/>
+    <rect x="90" y="134" width="5" height="15" rx="2.5" fill="#4a2e1f"/>
+    <rect x="107" y="134" width="5" height="15" rx="2.5" fill="#4a2e1f"/>
+    <rect x="117" y="134" width="5" height="15" rx="2.5" fill="#4a2e1f"/>
+    <ellipse cx="100" cy="124" rx="26" ry="13" fill="#4a2e1f"/>
+    <ellipse cx="130" cy="115" rx="13" ry="10" fill="#4a2e1f"/>
+    <ellipse cx="141" cy="118" rx="5" ry="4" fill="#4a2e1f"/>
+    <ellipse cx="133" cy="106" rx="3.5" ry="5" transform="rotate(20 133 106)" fill="#4a2e1f"/>
+    <ellipse cx="90" cy="119" rx="7" ry="5" transform="rotate(-20 90 119)" fill="#fbf3e7"/>
+    <ellipse cx="109" cy="130" rx="6" ry="4" transform="rotate(15 109 130)" fill="#fbf3e7"/>
+  </g>
+
+  <!-- wordmark -->
+  <line x1="80" y1="163" x2="120" y2="163" stroke="#33492e" stroke-width="1"/>
+  <text x="100" y="160" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-weight="700" font-size="26" letter-spacing="2" fill="#4a2e1f">FRESCO</text>
+  <text x="100" y="177" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-weight="600" font-size="12" letter-spacing="2.5" fill="#33492e">DAIRY FARMS</text>
+</svg>
