@@ -5,14 +5,6 @@
   <!-- mountains -->
   <path d="M28,118 L60,60 L82,118 L100,42 L118,118 L140,65 L172,118 Z" fill="#33492e"/>
 
-  <!-- pine trees -->
-  <g fill="#33492e">
-    <path d="M36,118 L45,95 L54,118 Z"/>
-    <path d="M39,104 L45,90 L51,104 Z"/>
-    <path d="M146,118 L155,95 L164,118 Z"/>
-    <path d="M149,104 L155,90 L161,104 Z"/>
-  </g>
-
   <!-- cow -->
   <g>
     <path d="M68,128 Q58,140 64,150" fill="none" stroke="#4a2e1f" stroke-width="4" stroke-linecap="round"/>
@@ -23,7 +15,7 @@
     <rect x="116" y="145" width="6" height="18" rx="3" fill="#4a2e1f"/>
     <ellipse cx="95" cy="132" rx="30" ry="16" fill="#4a2e1f"/>
     <ellipse cx="130" cy="122" rx="15" ry="12" fill="#4a2e1f"/>
-    <ellipse cx="142" cy="126" rx="6" ry="5" fill="#4a2e1f"/>
+    <ellipse cx="144" cy="126" rx="8" ry="4.5" fill="#4a2e1f"/>
     <ellipse cx="134" cy="112" rx="4" ry="6" transform="rotate(20 134 112)" fill="#4a2e1f"/>
     <ellipse cx="85" cy="126" rx="8" ry="6" transform="rotate(-20 85 126)" fill="#fbf3e7"/>
     <ellipse cx="106" cy="139" rx="7" ry="5" transform="rotate(15 106 139)" fill="#fbf3e7"/>
